@@ -1,0 +1,6 @@
+Copy the below dlls from bin\client subdirectory of %TRIDION_HOME% (defaults to C:\Program Files (x86)\Tridion\) this location.
+
+1.Tridion.Common.dll
+2.Tridion.ContentManager.Common.dll
+3.Tridion.ContentManager.dll
+4.Tridion.ContentManager.Publishing.dll
